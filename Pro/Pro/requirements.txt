@@ -1,0 +1,4 @@
+pynput
+Pillow
+psutil
+requests
